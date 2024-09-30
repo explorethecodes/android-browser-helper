@@ -11,6 +11,8 @@ developer will find themselves requiring, for example:
 * Code for choosing an appropriate Custom Tabs provider.
 * Creating an Activity to launch the browser's site settings for a TWA.
 
+Some issues reported with gradle groovy sync.
+
 ## Adding Android Browser Helper to an Android project
 
 Android Browser helper is available on the Google Maven. To use it, modify your application's
